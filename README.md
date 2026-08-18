@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=TK%20Chalatse&fontSize=56&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%7C%20Observability&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Code.%20Break.%20Fix.%20Repeat.&fontSize=44&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=TK%20Chalatse%20%E2%80%94%20Engineering%20systems%20that%20don't%20fall%20over&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -83,7 +83,7 @@ MongoDB/Observ.:  ███████████████░░░░░  
 
 <div align="center">
 
-### 🚀 Currently Building
+### Currently Building
 
 </div>
 
